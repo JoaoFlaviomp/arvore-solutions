@@ -8,7 +8,8 @@
    gcc avl.c -o avl.exe
 Isso criará um executável chamado avl.exe.
 5. Agora, execute o programa AVL:
+
+bash
+Copy code
 avl.exe
 O programa será iniciado, e você poderá interagir com o menu e testar as operações da Árvore AVL.
-
-OBS: Faça o mesmo processo para executar o código da árvore binária de pesquisa.
