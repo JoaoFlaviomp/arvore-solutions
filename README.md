@@ -1,4 +1,3 @@
-Compilar e Executar o Código AVL:
 # Compilar e Executar o Código AVL:
 
 1. Abra o Editor de Texto (por exemplo, Bloco de Notas) e copie o código AVL fornecido.
